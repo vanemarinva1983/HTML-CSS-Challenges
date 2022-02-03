@@ -110,10 +110,17 @@ footer {
 .image-container img {
   vertical-align: top;
   border: 5px solid #747c92;
+ 
+
+
 }
+.image-container .oso-1 {border-color: yellowgreen;}
+.image-container .oso-2 {border-color: yellow;}
+.image-container .oso-3 {border-color: blue;}
+
 
 .image-container img:first-of-type {
-  vertical-align: bottom;
+  vertical-align: top;
 }
 
 .tigers {
