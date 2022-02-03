@@ -113,7 +113,7 @@ footer {
 
 .image-container img {
   vertical-align: top;
-  border: 5px solid #747c92;
+  border: 5px solid #534747;
  
 
 
@@ -145,6 +145,20 @@ footer {
 }
 
 .giraffe .parrafo-1 {font-size: 18pt;}
+
+.leon {
+  background-color: #8b89a3;
+  color: #000000;
+}
+.leon .image-container img {
+  vertical-align: top;
+  border: 10px solid #d6fc00;
+  border-radius: 15px;
+  margin-right: 15px;
+ 
+
+
+}
 
 .news .centrado {text-align: center;}
 
