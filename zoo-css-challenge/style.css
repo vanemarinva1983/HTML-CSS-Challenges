@@ -156,6 +156,7 @@ footer {
   width: 30%;
   border: 1px solid black;
   border-radius: 10px;
+  
 }
 
 .card h4 {
@@ -216,5 +217,7 @@ footer {
 /*Programs*/
 
 .programs .card {
-  display: block;
+  display: inline-block;
+  width: 25%;
+
 }
