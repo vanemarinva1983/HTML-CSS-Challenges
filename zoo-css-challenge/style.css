@@ -95,15 +95,17 @@ footer {
   position: fixed;
   bottom: 78%;
   right: 20px;
+  
 
   display: flex;
   justify-content: center;
   align-content: center;
   flex-direction: column;
+  transition: all 1s ease;
 }
 
 #badge:hover {
-  background-color: #cccc9a;
+  background-color: #ffff00;
 }
 
 #badge p {
